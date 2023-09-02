@@ -1,7 +1,13 @@
+//byzaky
+
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let name = await conn.getName(who)
+global.kontak2 = [
+[owner[0], await conn.getName(owner[0] + '6282289304381@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'zakyyy@gmail.com', true],
+[owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'zakykak@gmail.com', true],
+] //ubah juga om dengan nomor lu 
 let nomorwa = '6282289304381'
 let nomorwa2 = '6283865775691'
 
