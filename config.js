@@ -85,10 +85,7 @@ global.owner = [
 ]
 global.mods = [] 
 global.prems = [] 
-global.kontak2 = [
-[owner[0], await conn.getName(owner[0] + '6282289304381@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'zakyyy@gmail.com', true],
-[owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'zakykak@gmail.com', true],
-] //ubah juga om dengan nomor lu
+
 
 /*============== API ==============*/
 global.APIs = { 
