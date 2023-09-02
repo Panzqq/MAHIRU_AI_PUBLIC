@@ -1,6 +1,6 @@
 // S C R I P T  O R I  B Y  MAHIRU AI 🔭
 // Credits, jangan dihapus atau diubah!
-
+// THANKS TO WAHID
 // - - THANKS TO - -
 // • Allah SWT
 // • ZAKY
