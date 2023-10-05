@@ -42,31 +42,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // if you don't have it, type "-" or leave it alone so there are credits :v
 
-global.sig = 'https://instagram.com/zakyreall'
-global.sgh = 'https://github.com/Oktetobussines'
-global.sgc = 'https://chat.whatsapp.com/I6cXD41t2It2ZsCWxUHq3K' //taruh link gc luh
+global.sig = 'https://instagram.com/panz'
+global.sgh = 'https://github.com/panz'
+global.sgc = 'https://chat.whatsapp.com/IKsze3S6POm97WbvLb2eoI' //taruh link gc luh
 global.sdc = 'https://www.discord.com'
-global.snh = 'https://youtu.be/0I8MBnCuuzs'
-global.sfb = 'https://www.facebook.com/Ayang'
-global.syt = 'https://youtube.com/@ayangzaky'
+global.snh = 'https://youtu.be/827291jw'
+global.sfb = 'https://www.facebook.com/panz'
+global.syt = 'https://youtube.com/@pamz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0822-8930-4381'
-global.povo = '0822-8930-4381'
-global.pgopay = '0822-8930-4381'
-global.plinkaja = '0822-8930-4381'
-global.ppulsa = '0822-8930-4381' 
-global.ppulsa2 = '0822-8930-4381'
+global.pdana = '6285757657796'
+global.povo = '6285757657796'
+global.pgopay = '6285757657796'
+global.plinkaja = ''
+global.ppulsa = '6285757657796' 
+global.ppulsa2 = '6285757657796'
 global.psaweria = 'ga ada om' //taruh link saweria lu
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+6281916753741'
-global.nomorown = '+6282289304381'
-global.namebot = 'mahiru ai'
-global.nameown = 'Ayang Iky'
+global.nomorbot = '+6285757657796'
+global.nomorown = '+6285702107250'
+global.namebot = '𝐓𝐫𝐢𝐳'
+global.nameown = '𝐏𝐚𝐧𝐳'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'siapazaky'
+global.namagithub = 'panzqq'
 global.linkgithub = sgh
 
 /*============== CREATE PANEL ==============*/
@@ -81,7 +81,7 @@ global.lolkey = pickRandom(["haikalgans"])
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282289304381', 'Ky Owner', true]
+  ['6285702107250', '乂 ~_*©辛᭖͜͡𝐏𝐀𝐍𝐙 𝐗𝐃*_~ 乂', true]
 ]
 global.mods = [] 
 global.prems = [] 
@@ -128,35 +128,35 @@ global.APIKeys = {
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「⻝ MAHIRU AI - KY 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MAHIRU AI - KY ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "MAHIRU AI"
+global.wm = '                「⻝ TRIZ - KY 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TRIZ - KY ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "TRIZ"
 global.botdate = `⻝ Tanggal: ${week} ${date}\n⻝ Waktu: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⻝ WhatsApp Bot | MAHIRU AI - KY`
+global.titlebot = `⻝ WhatsApp Bot | TRIZ- KY`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "IKY ZAKY 乂 MAHIRU AI"
+global.author = "TRIZ 乂 PANZ"
 global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢᴀᴋʏ - ᴍᴀʜɪʀᴜ ᴀɪ'
 /*Fake*/
 global.fsizedoc = SizeDoc()
 global.fpagedoc = PageDoc()
 global.thumbdoc = ImgEstetik()
 /*=========== ALLFAKE IMG&TEXT ===========*/
-global.v = `© MAHIRU AI V2.7` //ubah sesuka hati, ini adalah title allfake
-global.zakyfake = 'https://telegra.ph/file/f375b6d3aef462f11b2f8.jpg' //ini image allfake ya gusy ganti aja dengan foto sesuka hati
+global.v = `© 𝐏𝐀𝐍𝐙 𝐗𝐃` //ubah sesuka hati, ini adalah title allfake
+global.zakyfake = 'https://telegra.ph/file/50101beaaf1668ee0c23d.jpg' //ini image allfake ya gusy ganti aja dengan foto sesuka hati
 /*============== LOGO ==============*/
 global.ucapan = Pagi()
 global.thumb = ImgEstetik() 
 global.imagebot = ImgMountain()
 global.giflogo = VideoGalau()
 global.thumbs = ImgBoneka()
-global.donasi = 'https://telegra.ph/file/980b183cc268c2991bdd3.jpg'
-global.pilihan = 'https://telegra.ph/file/360dadafde8dcaee530aa.jpg'
-global.menu = 'https://telegra.ph/file/bca0dde72a05331206581.jpg'
+global.donasi = ''
+global.pilihan = 'https://telegra.ph/file/50101beaaf1668ee0c23d.jpg'
+global.menu = 'https://telegra.ph/file/50101beaaf1668ee0c23d.jpg'
 global.whmods = 'https://p4.wallpaperbetter.com/wallpaper/745/67/618/jujutsu-kaisen-anime-boys-anime-hd-wallpaper-preview.jpg'
 global.zykomd = 'https://p4.wallpaperbetter.com/wallpaper/745/67/618/jujutsu-kaisen-anime-boys-anime-hd-wallpaper-preview.jpg'
-global.fla = 'https://telegra.ph/file/9cc48b21c6eda65133682.jpg'
-global.brocas = "https://telegra.ph/file/383e588591ee366c20f53.jpg"
+global.fla = 'https://telegra.ph/file/50101beaaf1668ee0c23d.jpg'
+global.brocas = "https://telegra.ph/file/50101beaaf1668ee0c23d.jpg"
 global.thumbnailUrl = ImgBoneka()
 global.emojis = pickRandom(["🀄️",
 "🃏",
